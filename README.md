@@ -1,6 +1,6 @@
 # syncplay_osx_install
 
-Helper scripts to install and run SyncPlay on OSX
+Helper scripts to install and run [SyncPlay](http://syncplay.pl/) on OSX
 
 # Installation
 
