@@ -8,12 +8,12 @@ Helper scripts to install and run SyncPlay on OSX
 1. Open [Terminal.app](https://www.youtube.com/watch?v=zw7Nd67_aFw)
 1. Paste this into the terminal:
 
-    curl https://raw.githubusercontent.com/edalquist/syncplay_osx_install/master/install.sh | bash
+        curl https://raw.githubusercontent.com/edalquist/syncplay_osx_install/master/install.sh | bash
 
-1. The output should [look like this]().
+1. The output should [look like this](https://gist.github.com/edalquist/bfcf6d41e5e615bc643a).
 1. Download the run script via the Terminal 
 
-    curl -o run.sh https://raw.githubusercontent.com/edalquist/syncplay_osx_install/master/run.sh
+        curl -o run.sh https://raw.githubusercontent.com/edalquist/syncplay_osx_install/master/run.sh
 
 
 # Running
