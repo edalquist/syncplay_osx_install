@@ -4,6 +4,7 @@ Helper scripts to install and run [SyncPlay](http://syncplay.pl/) on OSX
 
 # Installation
 
+1. [Download and Install XCode](https://itunes.apple.com/us/app/xcode/id497799835?ls=1&mt=12)
 1. [Download and Install VLC](https://www.videolan.org/vlc/download-macosx.html)
 1. Open [Terminal.app](https://www.youtube.com/watch?v=zw7Nd67_aFw)
 1. Paste this into the terminal:
